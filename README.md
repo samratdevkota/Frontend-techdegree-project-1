@@ -1,1 +1,1 @@
-# Frontend-techdegree-project-1
+# Frontend Techdegree Project 1

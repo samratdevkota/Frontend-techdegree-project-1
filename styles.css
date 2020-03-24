@@ -57,11 +57,15 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/Nepal.jpg') no-repeat top center ;
+  background: url('images/nepal.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
+.experience{
+  background: url('images/nepal1.jpg') no-repeat bottom center ;
+}
+
 header {
   line-height: 1.5;
 }
@@ -203,5 +207,14 @@ a.social:hover {
     margin: 40px auto;
   }
 
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
 }
 
